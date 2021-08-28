@@ -5,8 +5,7 @@
     "sn": "1740LWN002032",
     "mac1": "00E066E81D73"
   },
-  "synoinfo": {
-    "supportsystemperature": "no",
-    "supportsystempwarning": "no"
+  "synoinfo": {},
+  "ramdisk_copy": {}
   }
 }
